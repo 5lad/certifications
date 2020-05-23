@@ -1,2 +1,2 @@
 # certifications
-This repo contains my professional certifications relevant to IT.
+This repo contains my professional certifications.
